@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Flash Web AirBnB Application """
+""" Flash Web AirBnB App"""
 from models import storage
 from models.state import State
 from models.city import City
